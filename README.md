@@ -12,7 +12,7 @@ Este projeto é um sistema de biblioteca desenvolvido como Projeto Integrador do
 
 ## Tecnologias Utilizadas
 
-- **Backend:** Java
+- **Backend:** Java, JBDC
 - **Banco de Dados:** MySQL 
 
 ## Contribuição
